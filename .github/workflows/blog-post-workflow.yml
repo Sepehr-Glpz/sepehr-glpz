@@ -6,6 +6,8 @@ on:
     - cron: "0 0 * * *"
 jobs:
   update-readme-with-blog:
+    permissions:
+      contents: write
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
