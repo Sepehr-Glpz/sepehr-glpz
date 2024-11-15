@@ -31,9 +31,10 @@
 <a href="https://blog.sepehr-golpazir.com/author/sepehr/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sepehr-golpazir.com/author/sepehr/rss/" height="30" width="40" /></a>
 </p>
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Official Launch](https://blog.sepehr-golpazir.com/official-launch/)
 <!-- BLOG-POST-LIST:END -->
 
