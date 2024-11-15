@@ -28,7 +28,7 @@
 <a href="https://twitter.com/sepig_gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sepig_gaming" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sepehr-golpazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sepehr-golpazir" height="30" width="40" /></a>
 <a href="https://instagram.com/sepi_gl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sepi_gl" height="30" width="40" /></a>
-<a href="/https://blog.sepehr-golpazir.com/author/sepehr/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sepehr-golpazir.com/author/sepehr/rss/" height="30" width="40" /></a>
+<a href="https://blog.sepehr-golpazir.com/author/sepehr/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.sepehr-golpazir.com/author/sepehr/rss/" height="30" width="40" /></a>
 </p>
 
 # Blog posts
