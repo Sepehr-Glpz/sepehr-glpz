@@ -34,6 +34,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Official Launch](https://blog.sepehr-golpazir.com/official-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
