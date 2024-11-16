@@ -34,7 +34,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Official Launch](https://blog.sepehr-golpazir.com/official-launch/)
 <!-- BLOG-POST-LIST:END -->
 
