@@ -1,17 +1,17 @@
-name: Latest blog post workflow
-on:
-  workflow_dispatch:
-  schedule:
+#name: Latest blog post workflow
+#on:
+  #workflow_dispatch:
+  #schedule:
     # Runs every day
-    - cron: "0 0 * * *"
-jobs:
-  update-readme-with-blog:
-    permissions:
-      contents: write
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://blog.sepehr-golpazir.com/author/sepehr/rss"
+    #- cron: "0 0 * * *"
+#jobs:
+  #update-readme-with-blog:
+    #permissions:
+      #contents: write
+    #name: Update this repo's README with latest blog posts
+    #runs-on: ubuntu-latest
+    #steps:
+      #- uses: actions/checkout@v2
+      #- uses: gautamkrishnar/blog-post-workflow@master
+        #with:
+          #feed_list: "https://blog.sepehr-golpazir.com/author/sepehr/rss"
